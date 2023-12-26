@@ -5,9 +5,9 @@
 <details>
   <summary>A little bit about me</summary>  
   <ul>
-    <li><p> My name is Glerysbeth Serrano Flores. I am a sophomore Software Engineering Undegraduate Student at the <strong> University of Puerto Rico, Mayagüez Campus</strong>.</p></li>
+    <li><p> My name is Glerysbeth Serrano Flores. I am a senior Software Engineering Undegraduate Student at the <strong> University of Puerto Rico, Mayagüez Campus</strong>.</p></li>
     <li>Some of my technical skills include Data Structures & Algorithms, as well as knowledge in C++ and Java languages.</li>
-    <li>I am actively seeking some summer intenships (or Co-Ops if any) that can allow me to increase my skills in the field of Software Engineering and Computer Science.</li>
+    <li>I am actively seeking summer intenships (or Co-Ops if any) that can allow me to increase my skills in the field of Software Engineering and Computer Science.</li>
   </ul>
 </details>
 
