@@ -56,10 +56,10 @@
 <!--Social Media + Resume-->
 <p>I'll attach my LinkedIn Profile and my Resume just in case you need it anytime soon, thanks for visiting!</p>
 <p align="center">
-  <a href="www.linkedin.com/in/glerysbethserrano"> 
+  <a href="https://www.linkedin.com/in/glerysbethserrano"> 
     <img src="LinkedIn.png" height="60px" width="60px">
   </a>
-  <a href="[https://drive.google.com/file/d/1xdJ0v2mRK1GKAZTjHBmC9KcuuS7RrUKp/view?usp=sharing](https://drive.google.com/file/d/1DDwePWPDaop63JjanKT_eKazR-gpcIpS/view?usp=sharing)"> 
+  <a href="[https://drive.google.com/file/d/1xdJ0v2mRK1GKAZTjHBmC9KcuuS7RrUKp/view?usp=sharing]"> 
     <img src="resume-icon-3.png" height="60px" width="60px">
   </a>
  </p>
