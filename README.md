@@ -59,7 +59,7 @@
   <a href="https://www.linkedin.com/in/glerysbethserrano"> 
     <img src="LinkedIn.png" height="60px" width="60px">
   </a>
-  <a href="[https://drive.google.com/file/d/1xdJ0v2mRK1GKAZTjHBmC9KcuuS7RrUKp/view?usp=sharing]"> 
+  <a href="[[https://drive.google.com/file/d/1xdJ0v2mRK1GKAZTjHBmC9KcuuS7RrUKp/view?usp=sharing]](https://drive.google.com/file/d/1DDwePWPDaop63JjanKT_eKazR-gpcIpS/view?usp=drive_link)"> 
     <img src="resume-icon-3.png" height="60px" width="60px">
   </a>
  </p>
